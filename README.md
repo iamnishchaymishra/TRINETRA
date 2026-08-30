@@ -101,7 +101,7 @@ Agents are coordinated through a workflow-oriented orchestration layer.
 
 ## System Architecture
 
-![TRINETRA System Architecture](architecture/system-architecture.png)
+![TRINETRA System Architecture](system-architecture.png)
 
 High-level flow:
 
